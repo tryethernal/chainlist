@@ -25,6 +25,7 @@ export default {
   "87": "nova network",
   "88": "tomochain",
   "96": "bitkub",
+  "97": "bsc testnet",
   "100": "xdai",
   "106": "velas",
   "108": "thundercore",
